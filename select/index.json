@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "PAKU",
+  "base_artist": "asmi",
+  "createdAt": "2026-03-12T13:45:11.489397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PAKU",
+      "artist": "Asmi",
+      "has_synced": true,
+      "path": "select/01_PAKU_Asmi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PAKU",
+      "artist": "asmi",
+      "has_synced": false,
+      "path": "select/02_PAKU_asmi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Miettusen paku",
+      "artist": "Ursus Factory",
+      "has_synced": false,
+      "path": "select/03_Miettusen_paku_Ursus_Factory.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PAKU - From THE FIRST TAKE",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/04_PAKU_-_From_THE_FIRST_TAKE_asmi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PAKU",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/05_PAKU_asmi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paku",
+      "artist": "Ara Johari",
+      "has_synced": true,
+      "path": "select/06_Paku_Ara_Johari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PAKU",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/07_PAKU_asmi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Geylang Si Paku Geylang",
+      "artist": "DAYANG",
+      "has_synced": false,
+      "path": "select/08_Geylang_Si_Paku_Geylang_DAYANG.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PAKU",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/09_PAKU_asmi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paku-Pekka",
+      "artist": "Aarne Alligaattori & Viidakkorumpu",
+      "has_synced": false,
+      "path": "select/10_Paku-Pekka_Aarne_Alligaattori_&_Viidakkorumpu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paku-Pekka",
+      "artist": "Aarne Alligaattori",
+      "has_synced": false,
+      "path": "select/11_Paku-Pekka_Aarne_Alligaattori.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gelang Si Paku Gelang",
+      "artist": "Alif & Mimi",
+      "has_synced": true,
+      "path": "select/12_Gelang_Si_Paku_Gelang_Alif_&_Mimi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PAKU",
+      "artist": "asmi",
+      "has_synced": false,
+      "path": "select/pl_01_PAKU_asmi.txt"
+    }
+  ]
+}
